@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/periodic-table/static/css/main.d1b05096.chunk.css",
-    "main.js": "/periodic-table/static/js/main.0a0e076d.chunk.js",
-    "main.js.map": "/periodic-table/static/js/main.0a0e076d.chunk.js.map",
+    "main.js": "/periodic-table/static/js/main.2365ccd5.chunk.js",
+    "main.js.map": "/periodic-table/static/js/main.2365ccd5.chunk.js.map",
     "runtime-main.js": "/periodic-table/static/js/runtime-main.908b57be.js",
     "runtime-main.js.map": "/periodic-table/static/js/runtime-main.908b57be.js.map",
     "static/js/2.5bab620d.chunk.js": "/periodic-table/static/js/2.5bab620d.chunk.js",
     "static/js/2.5bab620d.chunk.js.map": "/periodic-table/static/js/2.5bab620d.chunk.js.map",
     "index.html": "/periodic-table/index.html",
-    "precache-manifest.06f4f1be398d7ada0a582ccc3b021538.js": "/periodic-table/precache-manifest.06f4f1be398d7ada0a582ccc3b021538.js",
+    "precache-manifest.223b4f89afa699847f22b9c6ace6a529.js": "/periodic-table/precache-manifest.223b4f89afa699847f22b9c6ace6a529.js",
     "service-worker.js": "/periodic-table/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/periodic-table/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.5bab620d.chunk.js.LICENSE.txt": "/periodic-table/static/js/2.5bab620d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.908b57be.js",
     "static/js/2.5bab620d.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.0a0e076d.chunk.js"
+    "static/js/main.2365ccd5.chunk.js"
   ]
 }
